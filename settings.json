@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lam_lon_mup_SMP.aternos.me",
-    "port": 42486,
+    "ip": "Lam_lon_mup-SMP.aternos.me",
+    "port": 43444,
     "version": "1.21.11",
     "try-creative": false
   },
