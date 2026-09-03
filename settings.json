@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Toi_bi_ngu",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "khanh132vn-t4r6.aternos.me",
-    "port": 13720,
+    "ip": "Lam_lon_mup_SMP.aternos.me",
+    "port": 42486,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "djt_con_cho",
+        "chichlamsuongtelon",
+        "di_ngu_dih"
       ]
     },
     "chat-log": true,
